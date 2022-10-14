@@ -1,0 +1,105 @@
+  Welcome to the Arcane Trials! All magic acolytes must complete a challenge of skill
+        And resilience in order to prove themselves worthy of the title WIZARD!
+
+  You now find yourself about to embark on the greatest challenge of your life.
+
+  You must solve the maze…
+
+  Find all 8 power crystals and make your way to the inner chamber,
+        And you will be able to call yourself WIZARD!
+
+  Be careful! The maze is full of monsters. If you should perish, you will be revived
+        At one of the resurrection stones scattered throughout the maze.
+
+  Unfortunately, the maze has a mind of its own. Every time you revive, you will
+        Awaken to find the entire maze has rearranged itself!
+
+  To help you on your journey, the council has added 16 health pools around the maze
+        Collecting them will increase both your current and maximum health.
+
+  How many health pools you collect will add to our evaluation of your performance.
+
+  Merely surving the maze will not be enough to earn the title of master!
+
+  Good luck, and let your journey begin!
+
+
+
+
+
+  Controls:
+
+  w - move up     a - move left     s - move down     d - move right
+
+  m - open or close larger map
+
+  q - quit
+
+
+
+
+  How to Read Map:
+
+  The maze is divided into a 3 x 3 grid, with 8 regular chambers and a central chamber
+
+  Each of the 8 regular sections is divided into a 2x2 grid of 4 pieces
+
+  Each piece contains a 15x15 grid of tiles representing either walls or paths
+
+  The regular screen will show you a single 15x15 piece and a first person view
+
+  The map screen will show the 30x30 section, as well as an overview of the entire maze
+
+
+
+
+  Please adjust your screen view to fit the below box:
+
+
+
+
+
+##################################################################################################################################
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                 Adjust screen to fit this box                                                  #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+#                                                                                                                                #
+##################################################################################################################################
+
+
+
+
+  Scroll up to read instructions!
+
+
+  Press any key to continue.
