@@ -17,7 +17,6 @@ The tree is generated using a recursive algorithm where each branch of the tree 
 In order to get the program to render almost 20 million triangles with lighting calculations each frame, the vector representations of the trees are used to populate large arrays containing the vertices and surface normal vectors of the entire forest. To populaate these arrays, trunks and leaves are added using algorithms that convert the vector representations of the object into vertices and surface normals. To do so, the objects are "drawn" in terms of an orthonormal basis and then added to the array. These large arrays of vertices and normals are then passed on to a vertex buffer object which stores the data in the GPU memory for faster access and parallel computation.
 
 
-
 ## Screenshots
 
 #### First person perspective with forward lighting
