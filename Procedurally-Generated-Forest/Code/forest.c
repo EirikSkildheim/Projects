@@ -1294,7 +1294,7 @@ int main(int argc,char* argv[])
    //  Request 500 x 500 pixel window
    glutInitWindowSize(500,500);
    //  Create the window
-   glutCreateWindow("EIRIK_SKILDHEIM_HW5");
+   glutCreateWindow("Forest Generator");
 #ifdef USEGLEW
    //  Initialize GLEW
    if (glewInit()!=GLEW_OK) Fatal("Error initializing GLEW\n");
